@@ -27949,5 +27949,63 @@
     "usesFormmask": false,
     "uuid": "9ffccd2b-9477-4b59-9cc9-49d7f8151460",
     "file": "Donkey Kong Series/Donkey Kong Country 2/Hot-Head Bop.ootrs"
+  },
+  {
+    "game": "Mario Golf 64",
+    "song": "Toad Tournament",
+    "type": "bgm",
+    "categories": [
+      "HyruleField",
+      "LostWoods",
+      "GerudoValley",
+      "KokiriForest",
+      "GoronCity",
+      "ZorasDomain",
+      "KakarikoAdult",
+      "KakarikoChild",
+      "ForestTemple",
+      "FireTemple",
+      "IceCavern",
+      "WaterTemple",
+      "SpiritTemple",
+      "ShadowTemple",
+      "CastleEscape",
+      "CastleUnderground",
+      "Fields",
+      "Town",
+      "AncientDungeon",
+      "MysticalDungeon",
+      "SpookyDungeon",
+      "Outdoors",
+      "AdultDungeon",
+      "Overworld",
+      "Dungeon"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "b324bd0c-c19c-4513-a81c-65d300bbe435",
+    "file": "Mario Sports Series/Mario Golf 64/Toad Tournament.ootrs"
+  },
+  {
+    "game": "Mario Golf 64",
+    "song": "Toad Highlands",
+    "type": "bgm",
+    "categories": [
+      "HyruleField",
+      "KakarikoAdult",
+      "KakarikoChild",
+      "Market",
+      "LonLonRanch",
+      "Fields",
+      "Town",
+      "Outdoors",
+      "Overworld"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "3b06029f-0f9e-449e-8456-6e8561295f8e",
+    "file": "Mario Sports Series/Mario Golf 64/Toad Highlands.ootrs"
   }
 ]
