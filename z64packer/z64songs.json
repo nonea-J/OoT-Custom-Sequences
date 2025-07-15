@@ -27904,5 +27904,50 @@
     "usesFormmask": false,
     "uuid": "6dd0ca39-6e03-4eca-8412-c014ebcf6c2c",
     "file": "Among Us/Fanfare - Role Reveal.ootrs"
+  },
+  {
+    "game": "Super Mario RPG",
+    "song": "Let's Go Down the Wine River",
+    "type": "bgm",
+    "categories": [
+      "Mini-game",
+      "Fun",
+      "Outdoors",
+      "Overworld"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f4a9fbb3-fbe4-4dec-abf6-ef2136050c04",
+    "file": "Super Mario Series/Super Mario RPG/Let's Go Down the Wine River.ootrs"
+  },
+  {
+    "game": "Donkey Kong Country 2",
+    "song": "Disco Train",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "180971ed-d551-44de-90fc-2dbb96ee9e04",
+    "file": "Donkey Kong Series/Donkey Kong Country 2/Disco Train.ootrs"
+  },
+  {
+    "game": "Donkey Kong Country 2",
+    "song": "Hot-Head Bop",
+    "type": "bgm",
+    "categories": [
+      "DodongosCavern",
+      "FireTemple",
+      "ChildDungeon",
+      "AncientDungeon",
+      "AdultDungeon",
+      "Dungeon"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "9ffccd2b-9477-4b59-9cc9-49d7f8151460",
+    "file": "Donkey Kong Series/Donkey Kong Country 2/Hot-Head Bop.ootrs"
   }
 ]
