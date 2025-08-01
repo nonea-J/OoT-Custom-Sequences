@@ -2350,5 +2350,41 @@
     "series": "Mario Sports Series",
     "platforms": [],
     "abbrName": "Mario Golf 64"
+  },
+  {
+    "game": "Fortnite",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Fortnite"
+  },
+  {
+    "game": "Minecraft",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Minecraft"
+  },
+  {
+    "game": "Metal Gear Solid 2",
+    "series": "Metal Gear Solid Series",
+    "platforms": [],
+    "abbrName": "Metal Gear Solid 2"
+  },
+  {
+    "game": "Movie the Game",
+    "series": "Spongebob Series",
+    "platforms": [],
+    "abbrName": "Movie the Game"
+  },
+  {
+    "game": "Spiderman 2",
+    "series": "Spiderman Series",
+    "platforms": [],
+    "abbrName": "Spiderman 2"
+  },
+  {
+    "game": "Mario Paint",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Mario Paint"
   }
 ]
