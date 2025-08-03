@@ -28874,29 +28874,6 @@
   },
   {
     "game": "Red Blue Yellow",
-    "song": "Pok\u00e9mon Red Blue Yellow - Gym Leader Battle",
-    "type": "bgm",
-    "categories": [
-      "Battle",
-      "MinibossBattle",
-      "BossBattle",
-      "FireBoss",
-      "GanondorfBattle",
-      "GanonBattle",
-      "SmallFight",
-      "BossFight",
-      "FinalFight",
-      "BigFight",
-      "Fight"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "1d7211be-e1fe-43d0-b949-c023b402b7f6",
-    "file": "Pokemon Series/Red Blue Yellow/Pok\u00e9mon Red Blue Yellow - Gym Leader Battle.ootrs"
-  },
-  {
-    "game": "Red Blue Yellow",
     "song": "Cycling",
     "type": "bgm",
     "categories": [],
