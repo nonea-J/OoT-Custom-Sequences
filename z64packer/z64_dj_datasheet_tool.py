@@ -129,6 +129,8 @@ def safe_list_index(iterable, value, default = None):
 def compareTexts(a, b):
    nA = normalize(a)
    nB = normalize(b)
+   # TODO: QUEDÉ EN <<<< NOT FOUND IN DATABASE: Pokemon Ruby/Sapphire - Battle Steven | Skye | 
+   #if "WHALE" in b: print("<--------------------------------Comparing..." + nA + " | " + nB)
    return nA in nB or nB in nA
  
 def normalize(text):

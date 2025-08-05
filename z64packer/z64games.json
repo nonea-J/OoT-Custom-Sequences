@@ -60,10 +60,10 @@
     "abbrName": "One Piece"
   },
   {
-    "game": "Assassins Creed 2",
-    "series": "Assassins Creed Series",
+    "game": "Assassin's Creed II",
+    "series": "Assassin's Creed Series",
     "platforms": [],
-    "abbrName": "Assassins Creed 2"
+    "abbrName": "Assassin's Creed II"
   },
   {
     "game": "Asterix",
@@ -294,10 +294,10 @@
     "abbrName": "Claire Obscure - Expedition 33"
   },
   {
-    "game": "Classical Compositions",
-    "series": "",
+    "game": "Antonio Vivaldi",
+    "series": "Classical Compositions",
     "platforms": [],
-    "abbrName": "Classical Compositions"
+    "abbrName": "Antonio Vivaldi"
   },
   {
     "game": "Columns",
@@ -858,16 +858,16 @@
     "abbrName": "Kingdom Hearts"
   },
   {
-    "game": "Kingdom Hearts 2",
-    "series": "Kingdom Hearts Series",
-    "platforms": [],
-    "abbrName": "Kingdom Hearts 2"
-  },
-  {
     "game": "Kingdom Hearts 358-2 Days",
     "series": "Kingdom Hearts Series",
     "platforms": [],
     "abbrName": "Kingdom Hearts 358-2 Days"
+  },
+  {
+    "game": "Kingdom Hearts II",
+    "series": "Kingdom Hearts Series",
+    "platforms": [],
+    "abbrName": "Kingdom Hearts II"
   },
   {
     "game": "Kingdom Hearts ReCoded",
