@@ -60,6 +60,8 @@ def processExcel():
         # Finally, open the sheet
         sheet = workbook[sheetName]
         print("------ PROCESSING SHEET: " + sheetName + " ------")
+        # <<<< NOT FOUND IN DATABASE: DKC2/Super Smash Bros - Stickerbush Symphony | Yackole | 
+        # TODO: Consultar si ponemos estos remixes en smash o en DKC2... Yo creo que deberían ir en smash...
 
         # We allow an offset, because some sheets can have 2 tables of data
         for offset in [0, 6]:
@@ -129,7 +131,6 @@ def safe_list_index(iterable, value, default = None):
 def compareTexts(a, b):
    nA = normalize(a)
    nB = normalize(b)
-   # TODO: QUEDÉ EN <<<< NOT FOUND IN DATABASE: Pokemon Ruby/Sapphire - Battle Steven | Skye | 
    #if "WHALE" in b: print("<--------------------------------Comparing..." + nA + " | " + nB)
    return nA in nB or nB in nA
  

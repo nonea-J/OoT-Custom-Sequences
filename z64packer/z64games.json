@@ -1002,6 +1002,12 @@
     "abbrName": "Mario Kart Super Circuit"
   },
   {
+    "game": "Mario Kart Wii",
+    "series": "Mario Kart Series",
+    "platforms": [],
+    "abbrName": "Mario Kart Wii"
+  },
+  {
     "game": "Super Mario Kart",
     "series": "Mario Kart Series",
     "platforms": [],
@@ -1332,10 +1338,10 @@
     "abbrName": "Paper Mario 64"
   },
   {
-    "game": "Paper Mario And The Origami King",
+    "game": "Paper Mario The Origami King",
     "series": "Paper Mario Series",
     "platforms": [],
-    "abbrName": "Paper Mario And The Origami King"
+    "abbrName": "Paper Mario The Origami King"
   },
   {
     "game": "Paper Mario The Thousand Year Door",
@@ -1530,10 +1536,10 @@
     "abbrName": "Rayman Origins"
   },
   {
-    "game": "Resident Evil 1",
+    "game": "Resident Evil",
     "series": "Resident Evil Series",
     "platforms": [],
-    "abbrName": "Resident Evil 1"
+    "abbrName": "Resident Evil"
   },
   {
     "game": "Resident Evil 2",
@@ -1546,6 +1552,12 @@
     "series": "Resident Evil Series",
     "platforms": [],
     "abbrName": "Resident Evil 3"
+  },
+  {
+    "game": "Resident Evil Director's Cut",
+    "series": "Resident Evil Series",
+    "platforms": [],
+    "abbrName": "Resident Evil Director's Cut"
   },
   {
     "game": "Robot Wars Advanced Destruction",
@@ -1636,6 +1648,12 @@
     "series": "Sonic the Hedgehog Series",
     "platforms": [],
     "abbrName": "Shadow the Hedgehog"
+  },
+  {
+    "game": "Sonic & Knuckles",
+    "series": "Sonic the Hedgehog Series",
+    "platforms": [],
+    "abbrName": "Sonic & Knuckles"
   },
   {
     "game": "Sonic 1 (8 bit)",
@@ -1752,10 +1770,10 @@
     "abbrName": "Sonic Spinball"
   },
   {
-    "game": "Sonic the Hedgehog 1",
+    "game": "Sonic the Hedgehog",
     "series": "Sonic the Hedgehog Series",
     "platforms": [],
-    "abbrName": "Sonic the Hedgehog 1"
+    "abbrName": "Sonic the Hedgehog"
   },
   {
     "game": "Sonic the Hedgehog 2",
