@@ -1182,16 +1182,16 @@
     "abbrName": "Metroid Prime"
   },
   {
-    "game": "Metroid Prime 2",
+    "game": "Metroid Prime 2 Echoes",
     "series": "Metroid Series",
     "platforms": [],
-    "abbrName": "Metroid Prime 2"
+    "abbrName": "Metroid Prime 2 Echoes"
   },
   {
-    "game": "Metroid Prime 3",
+    "game": "Metroid Prime 3 Corruption",
     "series": "Metroid Series",
     "platforms": [],
-    "abbrName": "Metroid Prime 3"
+    "abbrName": "Metroid Prime 3 Corruption"
   },
   {
     "game": "Metroid Prime Hunters",
@@ -1398,10 +1398,10 @@
     "abbrName": "Pizza Tower"
   },
   {
-    "game": "Pocky and Rocky 2",
+    "game": "Pocky & Rocky 2",
     "series": "",
     "platforms": [],
-    "abbrName": "Pocky and Rocky 2"
+    "abbrName": "Pocky & Rocky 2"
   },
   {
     "game": "Black & White",
@@ -1416,10 +1416,10 @@
     "abbrName": "Diamond, Pearl & Platinum"
   },
   {
-    "game": "Gold & Silver",
+    "game": "Gold, Silver & Crystal",
     "series": "Pok\u00e9mon Series",
     "platforms": [],
-    "abbrName": "Gold & Silver"
+    "abbrName": "Gold, Silver & Crystal"
   },
   {
     "game": "HeartGold & SoulSilver",
@@ -1860,10 +1860,10 @@
     "abbrName": "StarTropics"
   },
   {
-    "game": "Street Fighter 2",
+    "game": "Street Fighter II",
     "series": "",
     "platforms": [],
-    "abbrName": "Street Fighter 2"
+    "abbrName": "Street Fighter II"
   },
   {
     "game": "Streets of Rage",
@@ -2347,7 +2347,7 @@
   },
   {
     "game": "Turok Dinosaur Hunter",
-    "series": "Turok",
+    "series": "Turok Series",
     "platforms": [],
     "abbrName": "Turok Dinosaur Hunter"
   },
