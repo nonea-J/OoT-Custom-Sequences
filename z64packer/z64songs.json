@@ -26736,10 +26736,8 @@
   {
     "game": "SGDQ Triforce Percent",
     "song": "Ocarina Song Overture of Sages Warp",
-    "type": "ocarinasong",
-    "categories": [
-      "-"
-    ],
+    "type": "fanfare",
+    "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
