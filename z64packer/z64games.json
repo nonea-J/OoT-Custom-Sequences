@@ -937,7 +937,7 @@
   },
   {
     "game": "Secret of Mana",
-    "series": "",
+    "series": "Mana Series",
     "platforms": [],
     "abbrName": "Secret of Mana"
   },
@@ -2506,5 +2506,17 @@
     "series": "Yu-Gi-Oh Series",
     "platforms": [],
     "abbrName": "Yu-Gi-Oh Forbidden Memories"
+  },
+  {
+    "game": "Deltarune",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Deltarune"
+  },
+  {
+    "game": "Dark Souls II",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Dark Souls II"
   }
 ]
