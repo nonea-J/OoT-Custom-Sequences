@@ -31781,5 +31781,114 @@
     "usesFormmask": false,
     "uuid": "23fe0722-33df-44f1-a15b-f2e77861824c",
     "file": "Deltarune/SWORD.ootrs"
+  },
+  {
+    "game": "Ocarina of Time",
+    "song": "Master Quest - Select screen",
+    "type": "bgm",
+    "categories": [],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "bbf33225-7aa3-430a-b730-2ba42f773d1d",
+    "file": "The Legend of Zelda Series/Ocarina of Time/Master Quest - Select screen.ootrs"
+  },
+  {
+    "game": "Twilight Princess",
+    "song": "Link Obtains the Master Sword",
+    "type": "fanfare",
+    "categories": [
+      "ItemGet",
+      "HeartContainerGet",
+      "SpiritStoneGet",
+      "HeartPieceGet",
+      "MedallionGet",
+      "LearnSong",
+      "ItemFanfare",
+      "EventFanfare"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "36a04cd7-dfaa-4c08-99d1-3598ccd11879",
+    "file": "The Legend of Zelda Series/Twilight Princess/Link Obtains the Master Sword.ootrs"
+  },
+  {
+    "game": "Pokemon 2000",
+    "song": "The Chosen One",
+    "type": "fanfare",
+    "categories": [
+      "PreludeOfLight",
+      "BoleroOfFire",
+      "MinuetOfForest",
+      "SerenadeOfWater",
+      "RequiemOfSpirit",
+      "NocturneOfShadow",
+      "ZeldasLullaby",
+      "EponasSong",
+      "SariasSong",
+      "SunsSong",
+      "SongOfTime",
+      "SongOfStorms",
+      "WarpSong",
+      "UtilitySong",
+      "SongFanfare"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "18747c96-981a-4400-ab65-68972deaf72a",
+    "file": "Pok\u00e9mon Series/Pokemon 2000/The Chosen One.ootrs"
+  },
+  {
+    "game": "Pokemon 2000",
+    "song": "Beast of the Sea",
+    "type": "fanfare",
+    "categories": [
+      "BossDefeated",
+      "SuccessFanfare",
+      "EventFanfare"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d59f5998-aef4-4d62-b590-9fddd8a11192",
+    "file": "Pok\u00e9mon Series/Pokemon 2000/Beast of the Sea.ootrs"
+  },
+  {
+    "game": "Pokemon 2000",
+    "song": "Melody of End",
+    "type": "fanfare",
+    "categories": [
+      "ItemGet",
+      "HeartContainerGet",
+      "SpiritStoneGet",
+      "HeartPieceGet",
+      "MedallionGet",
+      "LearnSong",
+      "ItemFanfare",
+      "EventFanfare"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "736b8007-3caf-4ad6-9e97-5cecf6a25909",
+    "file": "Pok\u00e9mon Series/Pokemon 2000/Melody of End.ootrs"
+  },
+  {
+    "game": "Pokemon 2000",
+    "song": "To The Rescue",
+    "type": "bgm",
+    "categories": [
+      "HyruleField",
+      "Fields",
+      "Outdoors",
+      "Overworld"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "9e62562c-4685-40bc-a85e-1669d556014a",
+    "file": "Pok\u00e9mon Series/Pokemon 2000/To The Rescue.ootrs"
   }
 ]

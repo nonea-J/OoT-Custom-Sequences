@@ -937,7 +937,7 @@
   },
   {
     "game": "Secret of Mana",
-    "series": "Mana Series",
+    "series": "",
     "platforms": [],
     "abbrName": "Secret of Mana"
   },
@@ -2518,5 +2518,11 @@
     "series": "",
     "platforms": [],
     "abbrName": "Dark Souls II"
+  },
+  {
+    "game": "Pokemon 2000",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pokemon 2000"
   }
 ]
